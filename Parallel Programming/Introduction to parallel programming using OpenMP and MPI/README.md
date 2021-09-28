@@ -1,3 +1,7 @@
-# Cources
+# Introduction to parallel programming using OpenMP and MPI
 
-Here I will leave the results of my cources (perhaps as part of a university program or my own initiative)
+[Link on the course][course-link]
+
+<!-- MARKDOWN LINKS-->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[course-link]: https://www.coursera.org/learn/parallelnoye-programmirovaniye
