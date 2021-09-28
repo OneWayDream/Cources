@@ -1,3 +1,3 @@
 # Cources
 
-Here i will drop all my cources (in may be the part of university program or my own initiative)
+Here I will leave the results of my cources (perhaps as part of a university program or my own initiative)
